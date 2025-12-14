@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Only One feat. ALEXXX",
+  "base_artist": "平井 大",
+  "createdAt": "2025-12-14T04:16:31.865494Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Only One feat. ALEXXX",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_Only_One_feat._ALEXXX_平井大.txt"
+    }
+  ]
+}
